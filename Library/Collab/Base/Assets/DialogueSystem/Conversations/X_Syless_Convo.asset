@@ -1,0 +1,3314 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9196226905194180556
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Cooperation is the key. Unite the people under this idea! '
+  children:
+  - {fileID: 7233250838824475901}
+  _uniqueId: 754d7d32-3aa9-4a70-a43e-196b75f5f86f
+--- !u!114 &-9094357950989730339
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Could you tell me about the village? '
+  children:
+  - {fileID: -309169133006196358}
+  _uniqueId: 66b95675-e8cb-4a49-8331-830a6ea69019
+--- !u!114 &-9092600864477254781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: b4761977-dd53-454d-a3c6-13820994a0e3
+  rect:
+    serializedVersion: 2
+    x: 51430
+    y: 49664
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 8203355902892805013}
+  - {fileID: -3853713698380375021}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: As the village began to grow people started to fear the darkness more
+    and more. It just kept them up and made them anxious every night. Personally,
+    I am more afraid of people taking advantage of the situation.
+--- !u!114 &-8925479627004267918
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Could you tell me about the village? '
+  children:
+  - {fileID: -2937110958431414819}
+  _uniqueId: 4026cf25-16c9-4b1d-9258-1655b2ead62a
+--- !u!114 &-8805621870565562294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: e09779bb-d455-4fff-ad3d-375f99a185b9
+  rect:
+    serializedVersion: 2
+    x: 51851
+    y: 50322
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: -4750310673760976055}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-8662704307634874845
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'For it to remain a calm place, you have to keep those people out! '
+  children:
+  - {fileID: 443511647642843311}
+  _uniqueId: ba8728fb-770d-4721-8cef-fe2491d7c2b7
+--- !u!114 &-8497223284138844807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: d1cdae51-4ec0-43a2-8ffd-00fd3684b9e6
+  rect:
+    serializedVersion: 2
+    x: 53005
+    y: 50264
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &-8126919517353622667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: a8995879-ce81-4f31-a22b-65baca5fe8ef
+  rect:
+    serializedVersion: 2
+    x: 52443
+    y: 49860
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -1528654267190578922}
+  - {fileID: -6483524558441615768}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: As the village began to grow people started to fear the darkness more
+    and more. It just kept them up and made them anxious every night. Personally,
+    I am more afraid of people taking advantage of the situation.
+--- !u!114 &-8094889067120925525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 19ab06c0-269a-4e61-98bd-5411d8a26414
+  rect:
+    serializedVersion: 2
+    x: 52790
+    y: 49722
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &-8031626561162077408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 11a185ba-ef83-46dc-b37f-f91fb2f8e422
+  rect:
+    serializedVersion: 2
+    x: 50852
+    y: 49853
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: -5211156655925065332}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-7660254122368415647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 35c04661-ba83-4d8e-a7bc-29d81c771c99
+  rect:
+    serializedVersion: 2
+    x: 51188
+    y: 50351
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 4516091717335085968}
+  - {fileID: 716837069601049902}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 
+--- !u!114 &-7615507688578317788
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: It does feel like a calm place. I am sure there is a middle way between that.
+  children:
+  - {fileID: -5599490967620681389}
+  _uniqueId: 72dfea12-aeda-4e5b-b500-f64ad77da40c
+--- !u!114 &-7491893625766420851
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: It does feel like a calm place. I am sure there is a middle way between that.
+  children:
+  - {fileID: 780607710419297888}
+  _uniqueId: 23dba866-c074-4742-9f7b-659d2af1124f
+--- !u!114 &-6650311415612171773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: bd8aab33-db0a-4f60-98b1-104336c603eb
+  rect:
+    serializedVersion: 2
+    x: 51971
+    y: 49756
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -5006823282978286679}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &-6613747278970495863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: a48ec410-43c4-4f0d-a129-492f425d293f
+  rect:
+    serializedVersion: 2
+    x: 50637
+    y: 50086
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 3530861511562047018}
+  - {fileID: -5367431533490541040}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: As the village began to grow people started to fear the darkness more
+    and more. It just kept them up and made them anxious every night. Personally,
+    I am more afraid of people taking advantage of the situation.
+--- !u!114 &-6571503500450150565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 7f7d526e-362f-49c9-8e5f-2c2ce966c40f
+  rect:
+    serializedVersion: 2
+    x: 51191
+    y: 50059
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -9094357950989730339}
+  - {fileID: -3001183473288097834}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 
+--- !u!114 &-6558115327755122103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 072e737a-77ff-4a2b-bf71-34aa48668669
+  rect:
+    serializedVersion: 2
+    x: 52671
+    y: 50174
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: 1991577209166245899}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-6516423823945994359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 5ab19231-a50f-464d-8f72-2a44de555d76
+  rect:
+    serializedVersion: 2
+    x: 52670
+    y: 49720
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: -8094889067120925525}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-6483524558441615768
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'I despise people who exploit the ones in need. They have to be dealt with! '
+  children:
+  - {fileID: -5583486807780076024}
+  _uniqueId: e20b8d63-45d5-4d01-b3a8-235fb58b41b2
+--- !u!114 &-6336651258779592261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 724aee60-1f57-4692-a47a-11c165a27c71
+  rect:
+    serializedVersion: 2
+    x: 52203
+    y: 50522
+    width: 200
+    height: 162
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 3129880906797021875}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 
+--- !u!114 &-6161490933324275319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 52f7ff75-f498-494b-a85c-5b301608a97f
+  rect:
+    serializedVersion: 2
+    x: 51852
+    y: 49837
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: -6650311415612171773}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-5975996184690450962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 6cb6d072-efb5-467c-aae4-00dd2e35362a
+  rect:
+    serializedVersion: 2
+    x: 50973
+    y: 50444
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -7660254122368415647}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &-5917921516035966339
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a21642593dc640d08d902334f670b149, type: 3}
+  m_Name: IsGlobalBool
+  m_EditorClassIdentifier: 
+  _title: IsGlobalBool
+  _uniqueId: 14e87631-0cc5-4a32-b754-dd0af7afd8c0
+  _variable: {fileID: 0}
+  _comparison: 0
+  _value: 0
+--- !u!114 &-5909067073139707219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 13e540fb-4c73-4bee-8c95-ea1a8ef5d944
+  rect:
+    serializedVersion: 2
+    x: 51763
+    y: 50460
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -6336651258779592261}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &-5812364334727821542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 2b1be312-35d9-4c23-90d7-db2470bb8c9e
+  rect:
+    serializedVersion: 2
+    x: 51972
+    y: 49904
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -5006823282978286679}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &-5641506417083346202
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Cooperation is the key. Unite the people under this idea! '
+  children:
+  - {fileID: -218798055225149848}
+  _uniqueId: 36c4a5c2-f593-4269-b847-9587c60442fa
+--- !u!114 &-5599490967620681389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 9b110947-720e-4025-ace5-9b2c2d4bd93f
+  rect:
+    serializedVersion: 2
+    x: 52671
+    y: 50109
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: 7393649524172621048}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-5583486807780076024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: f7e9190a-c159-45be-a75b-939cdd5ff389
+  rect:
+    serializedVersion: 2
+    x: 52885
+    y: 49948
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: 5205417812938674327}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-5450444774057185648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: e0ffe15f-7012-4916-a247-973b157f3a82
+  rect:
+    serializedVersion: 2
+    x: 52886
+    y: 50410
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: 6586764008887101982}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-5367431533490541040
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'I despise people who exploit the ones in need. They have to be dealt with! '
+  children:
+  - {fileID: 7011654943295472261}
+  _uniqueId: 5d4ed80c-ad4b-42d5-a85c-02034269dc46
+--- !u!114 &-5270579989738275949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: a2f9875b-d876-40f5-bb9a-42865359be83
+  rect:
+    serializedVersion: 2
+    x: 51971
+    y: 50389
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -359495004472358200}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &-5211156655925065332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 90ed2c55-2ea6-4cfa-ba25-e5283cb189a0
+  rect:
+    serializedVersion: 2
+    x: 50972
+    y: 49855
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: 2184880346179502989}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &-5178415588751232127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 895909d0-28cb-402d-b902-f3d542af00db
+  rect:
+    serializedVersion: 2
+    x: 51648
+    y: 49584
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: 2403921496525561157}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-5054528290478084926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: ae2eaa9c-a952-4a50-ad8f-e54874a5125d
+  rect:
+    serializedVersion: 2
+    x: 51648
+    y: 49649
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: -4150584133773841067}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-5006823282978286679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: a3aa020c-d233-4cf4-a1cf-7792190877a9
+  rect:
+    serializedVersion: 2
+    x: 52189
+    y: 49871
+    width: 200
+    height: 162
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 2504754546223465219}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 
+--- !u!114 &-4750310673760976055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 5b517089-63f7-4af5-bcc2-283ead294019
+  rect:
+    serializedVersion: 2
+    x: 51970
+    y: 50241
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -359495004472358200}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &-4524966622931768922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: db105859-4039-4c29-ada0-fb312011493c
+  rect:
+    serializedVersion: 2
+    x: 52790
+    y: 50476
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &-4325894639044626279
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: You need to take control of the situation by force! Eradicate the inferior
+    races!
+  children:
+  - {fileID: -5450444774057185648}
+  _uniqueId: 14cd480e-514e-44e9-995e-a1a1459aa58b
+--- !u!114 &-4294523341178745325
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: You need to take control of the situation by force! Eradicate the inferior
+    races!
+  children:
+  - {fileID: 2738861007199299762}
+  _uniqueId: d6152f89-dd91-4c2f-9d11-c8e4ffc318d6
+--- !u!114 &-4150584133773841067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: a453b3a4-d155-4ec9-8227-dd0043fc9e88
+  rect:
+    serializedVersion: 2
+    x: 51768
+    y: 49651
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: 8929178356167537705}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &-4103516146198242367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: a4ac0c30-9908-4f51-9e13-cd85f2cc2a49
+  rect:
+    serializedVersion: 2
+    x: 50167
+    y: 50128
+    width: 200
+    height: 202
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 7579530464024993041}
+  - {fileID: 8643779694855497213}
+  - {fileID: 8327610244184168902}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: Greetings traveler! Much delighted to meet someone from so far away.
+    How did your ways lead you here?
+--- !u!114 &-3948514092238327811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: a2c3aad2-860d-4595-b8da-0a5c30e12082
+  rect:
+    serializedVersion: 2
+    x: 51769
+    y: 50134
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -1236770360939131730}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &-3873376877999519122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 2fc9b881-d3be-4f63-9fc5-864a67ee9467
+  rect:
+    serializedVersion: 2
+    x: 50853
+    y: 50377
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: 8950880892713560616}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-3853713698380375021
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'I despise people who exploit the ones in need. They have to be dealt with! '
+  children:
+  - {fileID: -5054528290478084926}
+  _uniqueId: 4f601f64-2699-4c29-bfcb-442dcbeadf37
+--- !u!114 &-3785163604797828292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 22bd81ab-7d26-45a3-8ca5-790f164fa76c
+  rect:
+    serializedVersion: 2
+    x: 52671
+    y: 50622
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: 7024985617894474073}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-3766084823665280689
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'That sounds terrible. There must be a reason for that. I think we have to
+    help those who might be taken advantage of. '
+  children:
+  - {fileID: -3178307669260341357}
+  _uniqueId: 92d8f502-441e-4df0-84a8-5ef5c13c85de
+--- !u!114 &-3178307669260341357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 747d1af4-6cad-41f4-bbdd-5c698375e55e
+  rect:
+    serializedVersion: 2
+    x: 52671
+    y: 50557
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: -4524966622931768922}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-3042150034892156411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 7fa2ad29-dfe4-4f2d-a7f7-03f806ef2fa7
+  rect:
+    serializedVersion: 2
+    x: 52435
+    y: 50082
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -7615507688578317788}
+  - {fileID: 8316818151602905123}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "Despite the common concept of taverns, this here is a silent haven for
+    those in dire need of tranquility. But even here, some people can\u2019t seem
+    to think through it and just want to rush to conclusions."
+--- !u!114 &-3001183473288097834
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: Why do people gather here in the tavern?
+  children:
+  - {fileID: 6824859372512633761}
+  _uniqueId: d3e7f343-d2ff-452e-9852-4c8007c7831f
+--- !u!114 &-2937110958431414819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 10164b59-7d45-4313-b823-53fd6a9573ee
+  rect:
+    serializedVersion: 2
+    x: 50640
+    y: 49833
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -9196226905194180556}
+  - {fileID: 6067061884911972717}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "I lived here for 40 years, but it has never been this crowded. I believe
+    many cultures can live together, but it is getting out of hand here. \r\n"
+--- !u!114 &-2713838642457984845
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Could you tell me about the village? '
+  children:
+  - {fileID: -1102459631383449462}
+  _uniqueId: 0b14c0fb-b274-410c-8783-ff91e27bf5a9
+--- !u!114 &-2574206349502323743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 72ec52ed-c241-4322-907e-75b721b8745c
+  rect:
+    serializedVersion: 2
+    x: 52886
+    y: 50345
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: -8497223284138844807}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-1528654267190578922
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'That sounds terrible. There must be a reason for that. I think we have to
+    help those who might be taken advantage of. '
+  children:
+  - {fileID: 5759694541735284653}
+  _uniqueId: 057b4b1f-47f4-4aab-af94-872c9b5133fd
+--- !u!114 &-1285398743348025457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: d06266c9-3fc9-483f-8b20-b542689f2bbc
+  rect:
+    serializedVersion: 2
+    x: 52803
+    y: 50778
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &-1236770360939131730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 83df61f8-b7f6-460d-91db-10efd2a2066d
+  rect:
+    serializedVersion: 2
+    x: 52195
+    y: 50073
+    width: 200
+    height: 162
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 3523758572326049858}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 
+--- !u!114 &-1140188239574735933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 5bbd1305-7560-429c-8fd1-ef8aaa5afc19
+  rect:
+    serializedVersion: 2
+    x: 51430
+    y: 50417
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 8726422728458688046}
+  - {fileID: -4294523341178745325}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "I lived here for 40 years, but it has never been this crowded. I believe
+    many cultures can live together, but it is getting out of hand here. \r\n"
+--- !u!114 &-1102459631383449462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 7c801bcb-9c18-4d19-8f19-6630bef66769
+  rect:
+    serializedVersion: 2
+    x: 52445
+    y: 50288
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 7919891802923264941}
+  - {fileID: -4325894639044626279}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "I lived here for 40 years, but it has never been this crowded. I believe
+    many cultures can live together, but it is getting out of hand here. \r\n"
+--- !u!114 &-904614090156493771
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: What is this mysterious darkness outside?
+  children:
+  - {fileID: -9092600864477254781}
+  _uniqueId: 638e7e54-9fc1-497e-bdea-29bd352c6aec
+--- !u!114 &-564340413271810612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 814d271b-c5db-4b33-abc0-180f60917079
+  rect:
+    serializedVersion: 2
+    x: 52448
+    y: 50766
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -5641506417083346202}
+  - {fileID: -57432105779998126}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "I lived here for 40 years, but it has never been this crowded. I believe
+    many cultures can live together, but it is getting out of hand here. \r\n"
+--- !u!114 &-359495004472358200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: eebb1255-1353-4fe2-a978-0931820382b1
+  rect:
+    serializedVersion: 2
+    x: 52200
+    y: 50270
+    width: 200
+    height: 162
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -2713838642457984845}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 
+--- !u!114 &-336854904650178309
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'That sounds terrible. There must be a reason for that. I think we have to
+    help those who might be taken advantage of. '
+  children:
+  - {fileID: 8520966267471624297}
+  _uniqueId: 88dd61eb-bc79-4686-937c-0331452e4789
+--- !u!114 &-309169133006196358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 37d763e7-fdd4-4161-9017-ca201f70e48f
+  rect:
+    serializedVersion: 2
+    x: 51430
+    y: 50039
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 4470764951604118633}
+  - {fileID: 6673438044247980990}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "I lived here for 40 years, but it has never been this crowded. I believe
+    many cultures can live together, but it is getting out of hand here. \r\n"
+--- !u!114 &-218798055225149848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 94842731-6b0b-404d-8b5b-2dbf7e4cacb0
+  rect:
+    serializedVersion: 2
+    x: 52684
+    y: 50859
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: -1285398743348025457}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &-128920081255318230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2d8d0566afe4d5fa9596c80df966df6, type: 3}
+  m_Name: Root
+  m_EditorClassIdentifier: 
+  _uniqueId: b14ecc19-53e7-47b8-97d1-e86c2bbf724e
+  rect:
+    serializedVersion: 2
+    x: 50050
+    y: 50200
+    width: 100
+    height: 58
+  nodeTitle: 
+  children:
+  - {fileID: -4103516146198242367}
+  conditions:
+  - {fileID: -5917921516035966339}
+  enterActions: []
+  exitActions: []
+--- !u!114 &-57432105779998126
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: You need to take control of the situation by force! Eradicate the inferior
+    races!
+  children:
+  - {fileID: 339283877489940830}
+  _uniqueId: 7b754eb0-0f8a-4cd0-8216-2151e032c8d1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b35851dfd8754a74b333944d50d05bbd, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _nodes:
+  - {fileID: -128920081255318230}
+  - {fileID: -4103516146198242367}
+  - {fileID: 2973492034642573681}
+  - {fileID: 3341812890659479577}
+  - {fileID: -2937110958431414819}
+  - {fileID: -6613747278970495863}
+  - {fileID: 3280855205838050598}
+  - {fileID: -3873376877999519122}
+  - {fileID: 443511647642843311}
+  - {fileID: 8950880892713560616}
+  - {fileID: -5975996184690450962}
+  - {fileID: 655468040619850642}
+  - {fileID: 7011654943295472261}
+  - {fileID: 3756014083631716151}
+  - {fileID: 4440435584697019754}
+  - {fileID: 8277573088278569514}
+  - {fileID: -5211156655925065332}
+  - {fileID: -8031626561162077408}
+  - {fileID: 7233250838824475901}
+  - {fileID: 2184880346179502989}
+  - {fileID: -6571503500450150565}
+  - {fileID: -7660254122368415647}
+  - {fileID: -9092600864477254781}
+  - {fileID: 8403925097196928934}
+  - {fileID: -309169133006196358}
+  - {fileID: 6824859372512633761}
+  - {fileID: -1140188239574735933}
+  - {fileID: 4216565187012450993}
+  - {fileID: 2403921496525561157}
+  - {fileID: -4150584133773841067}
+  - {fileID: -5054528290478084926}
+  - {fileID: -5178415588751232127}
+  - {fileID: -4750310673760976055}
+  - {fileID: -5270579989738275949}
+  - {fileID: 3701041712752982604}
+  - {fileID: -8805621870565562294}
+  - {fileID: -6650311415612171773}
+  - {fileID: -5812364334727821542}
+  - {fileID: 1295129795882174658}
+  - {fileID: -6161490933324275319}
+  - {fileID: 218786282368467168}
+  - {fileID: -3948514092238327811}
+  - {fileID: 1520613160063430014}
+  - {fileID: 7176939107654116238}
+  - {fileID: 1937074608835480067}
+  - {fileID: 3854951085942420892}
+  - {fileID: 3142677062741404163}
+  - {fileID: 8520966267471624297}
+  - {fileID: -5909067073139707219}
+  - {fileID: 1981883442405316010}
+  - {fileID: 2738861007199299762}
+  - {fileID: 5507926399756733273}
+  - {fileID: 8929178356167537705}
+  - {fileID: -5006823282978286679}
+  - {fileID: -1236770360939131730}
+  - {fileID: -359495004472358200}
+  - {fileID: -6336651258779592261}
+  - {fileID: 1516217228669045396}
+  - {fileID: 7423242695341501069}
+  - {fileID: -8126919517353622667}
+  - {fileID: -3042150034892156411}
+  - {fileID: -1102459631383449462}
+  - {fileID: 857417294978315030}
+  - {fileID: -564340413271810612}
+  - {fileID: 780607710419297888}
+  - {fileID: -6516423823945994359}
+  - {fileID: -8094889067120925525}
+  - {fileID: 6000756901743101256}
+  - {fileID: -4524966622931768922}
+  - {fileID: 7024985617894474073}
+  - {fileID: -3785163604797828292}
+  - {fileID: -3178307669260341357}
+  - {fileID: 7393649524172621048}
+  - {fileID: 1991577209166245899}
+  - {fileID: -6558115327755122103}
+  - {fileID: -5599490967620681389}
+  - {fileID: 7638403489295833615}
+  - {fileID: 5205417812938674327}
+  - {fileID: -5583486807780076024}
+  - {fileID: 5759694541735284653}
+  - {fileID: -2574206349502323743}
+  - {fileID: -5450444774057185648}
+  - {fileID: 6586764008887101982}
+  - {fileID: -8497223284138844807}
+  - {fileID: -218798055225149848}
+  - {fileID: 339283877489940830}
+  - {fileID: 8255437769319291998}
+  - {fileID: -1285398743348025457}
+  root: {fileID: -128920081255318230}
+  scrollPosition: {x: 52613.742, y: 49997.1}
+--- !u!114 &218786282368467168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: ac707836-ca19-44da-9125-a8fac3c03c47
+  rect:
+    serializedVersion: 2
+    x: 51768
+    y: 49986
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -1236770360939131730}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &339283877489940830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 5f0f7a82-4af8-4ecb-99a4-6d57e63e4410
+  rect:
+    serializedVersion: 2
+    x: 52684
+    y: 50924
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: 8255437769319291998}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &443511647642843311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: a488f3e2-c46c-4e25-afd6-8d2ecaa31999
+  rect:
+    serializedVersion: 2
+    x: 50853
+    y: 50442
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: -5975996184690450962}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &655468040619850642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 38927a15-c9b1-4a72-a7b2-32d54b6cfd66
+  rect:
+    serializedVersion: 2
+    x: 50852
+    y: 50084
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: 3756014083631716151}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &716837069601049902
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: What is this mysterious darkness outside?
+  children:
+  - {fileID: 4216565187012450993}
+  _uniqueId: 82cb5407-9326-4446-afac-53ba36522be3
+--- !u!114 &780607710419297888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: eb2e3473-f89f-4a58-a563-644eb1c2b8b4
+  rect:
+    serializedVersion: 2
+    x: 52670
+    y: 49654
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: 6000756901743101256}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &857417294978315030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 0a372fc2-eca7-4fe8-9bb0-43c3689861a4
+  rect:
+    serializedVersion: 2
+    x: 52447
+    y: 50536
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -3766084823665280689}
+  - {fileID: 8450164694897517223}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: As the village began to grow people started to fear the darkness more
+    and more. It just kept them up and made them anxious every night. Personally,
+    I am more afraid of people taking advantage of the situation.
+--- !u!114 &1295129795882174658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: ae31dfe2-ccc2-4528-b321-56ae8d51f10c
+  rect:
+    serializedVersion: 2
+    x: 51852
+    y: 49902
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: -5812364334727821542}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &1397198530868837579
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'For it to remain a calm place, you have to keep those people out! '
+  children:
+  - {fileID: 1295129795882174658}
+  _uniqueId: 1a27241e-5c99-4641-a0c2-a2eea5ca8c49
+--- !u!114 &1516217228669045396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 9a965970-72cc-4327-a548-b7d28e9fe6e7
+  rect:
+    serializedVersion: 2
+    x: 52203
+    y: 50760
+    width: 200
+    height: 162
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 1735037571419723584}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 
+--- !u!114 &1520613160063430014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 07426d41-3be5-407a-b045-8a2d2e06b243
+  rect:
+    serializedVersion: 2
+    x: 51649
+    y: 50132
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: -3948514092238327811}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &1732841062756380039
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: Why do people gather here in the tavern?
+  children:
+  - {fileID: 8403925097196928934}
+  _uniqueId: 9e831806-a07a-4cb8-b9e4-bf6aec8aa848
+--- !u!114 &1735037571419723584
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Could you tell me about the village? '
+  children:
+  - {fileID: -564340413271810612}
+  _uniqueId: 2a97f35b-3167-49d1-a61e-6a59aaef5fa2
+--- !u!114 &1937074608835480067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 6b35cc66-a3b2-4b8f-84f8-1e0a33814b0a
+  rect:
+    serializedVersion: 2
+    x: 51972
+    y: 50698
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: 1516217228669045396}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &1981883442405316010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 5d720391-1676-4667-8788-892092bd96a4
+  rect:
+    serializedVersion: 2
+    x: 51764
+    y: 50608
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -6336651258779592261}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &1991577209166245899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: b7953427-3647-408e-a040-8ecba767c7b3
+  rect:
+    serializedVersion: 2
+    x: 52791
+    y: 50176
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &2184880346179502989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: f9b04006-85a0-4489-826e-09e2ad61e63b
+  rect:
+    serializedVersion: 2
+    x: 51193
+    y: 49757
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -904614090156493771}
+  - {fileID: 1732841062756380039}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 
+--- !u!114 &2403921496525561157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 696dfa7e-6090-4361-a030-3eabe6fcfe27
+  rect:
+    serializedVersion: 2
+    x: 51767
+    y: 49503
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: 8929178356167537705}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &2504754546223465219
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: What is this mysterious darkness outside?
+  children:
+  - {fileID: -8126919517353622667}
+  _uniqueId: 5ef7b32d-e270-45e0-9c0f-f8f7e3fbbf38
+--- !u!114 &2652630938433670587
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: It does feel like a calm place. I am sure there is a middle way between that.
+  children:
+  - {fileID: -3873376877999519122}
+  _uniqueId: 0a1b8f56-e0fd-4bbd-8c46-db7fd320aab2
+--- !u!114 &2738861007199299762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: d24ff78a-70bf-4764-93aa-769131c82f02
+  rect:
+    serializedVersion: 2
+    x: 51644
+    y: 50606
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: 1981883442405316010}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &2973492034642573681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 544cff1e-1d64-45e3-be30-a651006bc477
+  rect:
+    serializedVersion: 2
+    x: 50399
+    y: 50052
+    width: 200
+    height: 202
+  nodeTitle: 
+  children:
+  - {fileID: -2937110958431414819}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -8925479627004267918}
+  - {fileID: 7758435133987462558}
+  - {fileID: 4170214648217671561}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 'Well then, I must assure you that you are in the right place to sit
+    down for a while, have a good glass of your drink of choice and then be on your
+    mysterious ways. *scoffs* If not for this damned darkness that descended upon
+    us, we could all be on our way!
+
+'
+--- !u!114 &3129880906797021875
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: What is this mysterious darkness outside?
+  children:
+  - {fileID: 857417294978315030}
+  _uniqueId: 4231060f-76ea-4100-9471-59619c67fd44
+--- !u!114 &3142677062741404163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 6c121aab-1eee-4d8e-81f6-f3204f04e227
+  rect:
+    serializedVersion: 2
+    x: 51853
+    y: 50844
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: 3854951085942420892}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &3280855205838050598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Syless_Convo_1
+  m_EditorClassIdentifier: 
+  _uniqueId: 25950517-62f8-4bfb-9102-b6398e09d1be
+  rect:
+    serializedVersion: 2
+    x: 50635
+    y: 50309
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 2652630938433670587}
+  - {fileID: -8662704307634874845}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "Despite the common concept of taverns, this here is a silent haven for
+    those in dire need of tranquility. But even here, some people can\u2019t seem
+    to think through it and just want to rush to conclusions."
+--- !u!114 &3341812890659479577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 155c6762-fe89-4e03-9ff9-adfa772b51d3
+  rect:
+    serializedVersion: 2
+    x: 50399
+    y: 50257
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "Hah! I\u2019m sorry, I am no server. Maybe you should try with Valkar.
+    He is the one handing out drinks."
+--- !u!114 &3523758572326049858
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: Why do people gather here in the tavern?
+  children:
+  - {fileID: -3042150034892156411}
+  _uniqueId: 30b6380a-ba5a-44c9-9334-192c7e2b588a
+--- !u!114 &3530861511562047018
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'That sounds terrible. There must be a reason for that. I think we have to
+    help those who might be taken advantage of. '
+  children:
+  - {fileID: 655468040619850642}
+  _uniqueId: 5bb10a02-b8a0-45a8-b8cb-b7ee7c842f02
+--- !u!114 &3701041712752982604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 3345f7d9-1e9f-4723-8d6b-3e1133756b53
+  rect:
+    serializedVersion: 2
+    x: 51851
+    y: 50387
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: -5270579989738275949}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &3756014083631716151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 48954695-96e8-4a82-8ac3-770e69ec0874
+  rect:
+    serializedVersion: 2
+    x: 50971
+    y: 50003
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -6571503500450150565}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &3854951085942420892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 691cceb4-8e75-405a-a60e-da4800e1806a
+  rect:
+    serializedVersion: 2
+    x: 51973
+    y: 50846
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: 1516217228669045396}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &4170214648217671561
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: Why do people gather here in the tavern?
+  children:
+  - {fileID: 3280855205838050598}
+  _uniqueId: 32d7ca33-b293-4326-a526-1de4b3e45595
+--- !u!114 &4211793558650670620
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: It does feel like a calm place. I am sure there is a middle way between that.
+  children:
+  - {fileID: -6161490933324275319}
+  _uniqueId: 70288116-947c-47cf-b17e-0d02588fdb2d
+--- !u!114 &4216565187012450993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 38bb9bc3-dc16-49c2-a36c-3c2e9db20406
+  rect:
+    serializedVersion: 2
+    x: 51430
+    y: 50603
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -336854904650178309}
+  - {fileID: 8643379528865654462}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: As the village began to grow people started to fear the darkness more
+    and more. It just kept them up and made them anxious every night. Personally,
+    I am more afraid of people taking advantage of the situation.
+--- !u!114 &4440435584697019754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 1b098df4-29da-43b6-b4d9-07dfd4c5f7f8
+  rect:
+    serializedVersion: 2
+    x: 50972
+    y: 50151
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -6571503500450150565}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &4470764951604118633
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Cooperation is the key. Unite the people under this idea! '
+  children:
+  - {fileID: 7176939107654116238}
+  _uniqueId: 4cee847e-3da5-43f9-945f-e638a5e976d9
+--- !u!114 &4516091717335085968
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Could you tell me about the village? '
+  children:
+  - {fileID: -1140188239574735933}
+  _uniqueId: 9a100180-96c9-43e0-95f3-977fea088845
+--- !u!114 &4568478607186341615
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'For it to remain a calm place, you have to keep those people out! '
+  children:
+  - {fileID: 3701041712752982604}
+  _uniqueId: 96817260-b5d3-44e4-bf8b-37f6959cfea8
+--- !u!114 &4598178760098249028
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: It does feel like a calm place. I am sure there is a middle way between that.
+  children:
+  - {fileID: -8805621870565562294}
+  _uniqueId: 7a18d96e-ceb7-4136-b829-b7f83bf67fb8
+--- !u!114 &5205417812938674327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Syless_Convo
+  m_EditorClassIdentifier: 
+  _uniqueId: c4294939-50b8-4cd8-886d-980505706652
+  rect:
+    serializedVersion: 2
+    x: 53006
+    y: 49952
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &5327080177519933408
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'For it to remain a calm place, you have to keep those people out! '
+  children:
+  - {fileID: -6516423823945994359}
+  _uniqueId: 9f73386d-ab49-4942-b61b-96a3edc9718c
+--- !u!114 &5507926399756733273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: f172d33b-45b2-44d1-b508-5c888d577ce1
+  rect:
+    serializedVersion: 2
+    x: 51644
+    y: 50541
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: -5909067073139707219}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &5759694541735284653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: e5a848e6-46a2-40e9-a55e-21328b361ca7
+  rect:
+    serializedVersion: 2
+    x: 52886
+    y: 49883
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: 7638403489295833615}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &6000756901743101256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 6560652e-886b-438a-b983-785d242f3095
+  rect:
+    serializedVersion: 2
+    x: 52789
+    y: 49574
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &6067061884911972717
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: You need to take control of the situation by force! Eradicate the inferior
+    races!
+  children:
+  - {fileID: -8031626561162077408}
+  _uniqueId: 30907d50-b000-4ee8-aef3-bf88546e0b71
+--- !u!114 &6586764008887101982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: c0dc3196-fd72-4343-9e6d-f51c0761f72e
+  rect:
+    serializedVersion: 2
+    x: 53006
+    y: 50412
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &6673438044247980990
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: You need to take control of the situation by force! Eradicate the inferior
+    races!
+  children:
+  - {fileID: 1520613160063430014}
+  _uniqueId: 47792f9c-e111-497c-b973-cdb4d154a9f0
+--- !u!114 &6824859372512633761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 3886187d-d32c-435c-af1b-a95969d09b13
+  rect:
+    serializedVersion: 2
+    x: 51428
+    y: 50227
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 4598178760098249028}
+  - {fileID: 4568478607186341615}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "Despite the common concept of taverns, this here is a silent haven for
+    those in dire need of tranquility. But even here, some people can\u2019t seem
+    to think through it and just want to rush to conclusions."
+--- !u!114 &7011654943295472261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: edb66679-4bb5-4568-82e7-358826113d3c
+  rect:
+    serializedVersion: 2
+    x: 50852
+    y: 50149
+    width: 100
+    height: 58
+  nodeTitle: '-'
+  children:
+  - {fileID: 4440435584697019754}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &7024985617894474073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: bdf49e19-6428-45c8-baf1-6ee3639fa123
+  rect:
+    serializedVersion: 2
+    x: 52791
+    y: 50624
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &7176939107654116238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 7ff3bf64-848f-43ff-9943-0b1c24c7d5cd
+  rect:
+    serializedVersion: 2
+    x: 51649
+    y: 50067
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: 218786282368467168}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &7233250838824475901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: c81db065-1a47-4709-906a-7621ee6013ea
+  rect:
+    serializedVersion: 2
+    x: 50852
+    y: 49788
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: 8277573088278569514}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &7393649524172621048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 7d12d77a-30bd-4dac-8028-c38da53be743
+  rect:
+    serializedVersion: 2
+    x: 52790
+    y: 50028
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &7423242695341501069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 63b084ce-848c-4868-8e6f-80f7fda7a963
+  rect:
+    serializedVersion: 2
+    x: 52444
+    y: 49660
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -7491893625766420851}
+  - {fileID: 5327080177519933408}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "Despite the common concept of taverns, this here is a silent haven for
+    those in dire need of tranquility. But even here, some people can\u2019t seem
+    to think through it and just want to rush to conclusions."
+--- !u!114 &7579530464024993041
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Just passing through. '
+  children:
+  - {fileID: 2973492034642573681}
+  _uniqueId: 5393a55d-1063-4d35-8962-0c790ef00508
+--- !u!114 &7638403489295833615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: d4882869-9b45-41d7-9703-8ebe76166b20
+  rect:
+    serializedVersion: 2
+    x: 53005
+    y: 49802
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &7758435133987462558
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: What is this mysterious darkness outside?
+  children:
+  - {fileID: -6613747278970495863}
+  _uniqueId: 31ebe06f-784d-49e1-aa87-6d45d2f15b0a
+--- !u!114 &7919891802923264941
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Cooperation is the key. Unite the people under this idea! '
+  children:
+  - {fileID: -2574206349502323743}
+  _uniqueId: 72cf6de4-99a0-4dbc-b440-6e9eb0221077
+--- !u!114 &8203355902892805013
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'That sounds terrible. There must be a reason for that. I think we have to
+    help those who might be taken advantage of. '
+  children:
+  - {fileID: -5178415588751232127}
+  _uniqueId: 3b055ef8-f954-45b5-88d4-3257e021219c
+--- !u!114 &8255437769319291998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: c4e50397-f447-4fd9-9006-ce012adfc5f7
+  rect:
+    serializedVersion: 2
+    x: 52804
+    y: 50926
+    width: 200
+    height: 142
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: That makes it worse. Your actions only support the darkness!
+--- !u!114 &8277573088278569514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: X_Syless_Convo
+  m_EditorClassIdentifier: 
+  _uniqueId: 5b387231-299c-40fa-bb16-3e417699f98a
+  rect:
+    serializedVersion: 2
+    x: 50971
+    y: 49707
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: 2184880346179502989}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &8316818151602905123
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'For it to remain a calm place, you have to keep those people out! '
+  children:
+  - {fileID: -6558115327755122103}
+  _uniqueId: 34d2c849-5d62-4291-b2ea-c1c20297635c
+--- !u!114 &8327610244184168902
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'A beer please. '
+  children:
+  - {fileID: 3341812890659479577}
+  _uniqueId: 68d6ce18-1e63-49c7-950e-ac384d5a96cd
+--- !u!114 &8403925097196928934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: a82415a1-0b48-45a6-88fc-3ee301a498ba
+  rect:
+    serializedVersion: 2
+    x: 51430
+    y: 49852
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 4211793558650670620}
+  - {fileID: 1397198530868837579}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: "Despite the common concept of taverns, this here is a silent haven for
+    those in dire need of tranquility. But even here, some people can\u2019t seem
+    to think through it and just want to rush to conclusions."
+--- !u!114 &8450164694897517223
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'I despise people who exploit the ones in need. They have to be dealt with! '
+  children:
+  - {fileID: -3785163604797828292}
+  _uniqueId: 8bc87df3-527f-430b-b90a-77797516a2cf
+--- !u!114 &8520966267471624297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: cb370def-26db-4c61-bdeb-417efb5e5046
+  rect:
+    serializedVersion: 2
+    x: 51853
+    y: 50779
+    width: 100
+    height: 58
+  nodeTitle: +
+  children:
+  - {fileID: 1937074608835480067}
+  conditions: []
+  enterActions: []
+  exitActions: []
+--- !u!114 &8643379528865654462
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'I despise people who exploit the ones in need. They have to be dealt with! '
+  children:
+  - {fileID: 3142677062741404163}
+  _uniqueId: ed7afa6b-1d17-4132-8fd9-d6304b5c962e
+--- !u!114 &8643779694855497213
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'I am in search of adventure. '
+  children:
+  - {fileID: 2973492034642573681}
+  _uniqueId: 73474fc7-531c-4841-acc4-48e27c9011cf
+--- !u!114 &8726422728458688046
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'Cooperation is the key. Unite the people under this idea! '
+  children:
+  - {fileID: 5507926399756733273}
+  _uniqueId: 50dd5bc0-0c97-4130-8090-7062f2f920cd
+--- !u!114 &8929178356167537705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 267b4c9a-d8d5-4ff1-943e-a990720170d5
+  rect:
+    serializedVersion: 2
+    x: 52188
+    y: 49665
+    width: 200
+    height: 162
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 9136750275348489039}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: 
+--- !u!114 &8950880892713560616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 08ea676e-af70-43ae-8f5f-637e8c66191a
+  rect:
+    serializedVersion: 2
+    x: 50973
+    y: 50300
+    width: 200
+    height: 142
+  nodeTitle: 
+  children:
+  - {fileID: -7660254122368415647}
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices: []
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: You are right! Your wisdom brings us light!
+--- !u!114 &9136750275348489039
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: Why do people gather here in the tavern?
+  children:
+  - {fileID: 7423242695341501069}
+  _uniqueId: 2ed6b4d7-90e7-4458-8363-3c352f012b15

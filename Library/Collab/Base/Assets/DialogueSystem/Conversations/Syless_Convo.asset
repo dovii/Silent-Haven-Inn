@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8743810648884674744
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: end
+  children:
+  - {fileID: -363632929929185290}
+  _uniqueId: 65daf87e-4e7d-481c-bf60-15be88175880
+--- !u!114 &-8609374128822134366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 3542a059-8849-4ea6-a249-aff5514ca939
+  rect:
+    serializedVersion: 2
+    x: 49848
+    y: 50149
+    width: 200
+    height: 182
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: 6056570265412361469}
+  - {fileID: -5863049800731200092}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: henlo
+--- !u!114 &-8215394681575052458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: CustomAction
+  m_EditorClassIdentifier: Assembly-CSharp::CustomAction
+  _title: CustomAction
+  _uniqueId: 6a47bf0f-d63c-4b9c-912d-ff55ca2481dc
+  playerCharacter: {fileID: 5383606759157489405, guid: 507361692c449a04da3eee9a30e06d3e, type: 3}
+--- !u!114 &-5863049800731200092
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: no
+  children:
+  - {fileID: 5027100060556478965}
+  _uniqueId: 9612da7c-1d1a-42ef-8815-969a56b0bcec
+--- !u!114 &-5750185148594724180
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: end
+  children:
+  - {fileID: -363632929929185290}
+  _uniqueId: 510d018a-295f-43ea-84b9-0f28d8653030
+--- !u!114 &-4192467541607183741
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: CustomAction
+  m_EditorClassIdentifier: Assembly-CSharp::CustomAction
+  _title: CustomAction
+  _uniqueId: 7505fc45-4c07-441a-9dfd-4c4652ad3459
+  playerCharacter: {fileID: 5383606759157489405, guid: 507361692c449a04da3eee9a30e06d3e, type: 3}
+--- !u!114 &-363632929929185290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5bb286b3994795a7780dbfc28d37fd, type: 3}
+  m_Name: Hub
+  m_EditorClassIdentifier: 
+  _uniqueId: 2b744341-f099-40d0-9c89-222e5dd0ff7b
+  rect:
+    serializedVersion: 2
+    x: 50373
+    y: 50245
+    width: 100
+    height: 58
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions:
+  - {fileID: 0}
+  - {fileID: -8215394681575052458}
+  exitActions: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b35851dfd8754a74b333944d50d05bbd, type: 3}
+  m_Name: Syless_Convo
+  m_EditorClassIdentifier: 
+  _nodes:
+  - {fileID: 6352835641542242989}
+  - {fileID: -8609374128822134366}
+  - {fileID: 3110168597982764241}
+  - {fileID: 5027100060556478965}
+  - {fileID: -363632929929185290}
+  root: {fileID: 6352835641542242989}
+  scrollPosition: {x: 49627.4, y: 49957.9}
+--- !u!114 &1211102866587952556
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: CustomAction
+  m_EditorClassIdentifier: Assembly-CSharp::CustomAction
+  _title: CustomAction
+  _uniqueId: a0e04a83-54d4-435c-a600-168bfc51cd96
+  playerCharacter: {fileID: 5383606759157489405, guid: 507361692c449a04da3eee9a30e06d3e, type: 3}
+--- !u!114 &3110168597982764241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: ead4e99b-2d18-48a6-a682-ecc6d359342c
+  rect:
+    serializedVersion: 2
+    x: 50117
+    y: 50075
+    width: 200
+    height: 162
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -8743810648884674744}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: A
+--- !u!114 &5027100060556478965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f157564dbc846468ec0ac2b6f7d545e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  _uniqueId: 43feccfa-9bcd-48ed-8b1a-90026111f493
+  rect:
+    serializedVersion: 2
+    x: 50115
+    y: 50268
+    width: 200
+    height: 162
+  nodeTitle: 
+  children: []
+  conditions: []
+  enterActions: []
+  exitActions: []
+  choices:
+  - {fileID: -5750185148594724180}
+  actor: {fileID: 11400000, guid: f127ffe90da35bb4196d581bf93d6dc7, type: 2}
+  dialogue: B
+--- !u!114 &6056570265412361469
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb407621a43446dac370b409a9ddc29, type: 3}
+  m_Name: Choice
+  m_EditorClassIdentifier: 
+  text: 'yes '
+  children:
+  - {fileID: 3110168597982764241}
+  _uniqueId: 6c67b0b7-355e-4359-9613-17f234a224c7
+--- !u!114 &6352835641542242989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2d8d0566afe4d5fa9596c80df966df6, type: 3}
+  m_Name: Root
+  m_EditorClassIdentifier: 
+  _uniqueId: cd273e6a-0a04-4240-befa-24c089d77d29
+  rect:
+    serializedVersion: 2
+    x: 49694
+    y: 50220
+    width: 100
+    height: 58
+  nodeTitle: 
+  children:
+  - {fileID: -8609374128822134366}
+  conditions: []
+  enterActions:
+  - {fileID: 0}
+  - {fileID: 8816397896891847338}
+  exitActions: []
+--- !u!114 &8816397896891847338
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: CustomAction
+  m_EditorClassIdentifier: Assembly-CSharp::CustomAction
+  _title: CustomAction
+  _uniqueId: b32706ca-1a29-4a70-90d7-0b89515eb7e0
+  playerCharacter: {fileID: 5383606759157489405, guid: 507361692c449a04da3eee9a30e06d3e, type: 3}

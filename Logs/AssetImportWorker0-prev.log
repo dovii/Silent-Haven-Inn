@@ -1,0 +1,1413 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.836; Version 1909; 64bit' Language: 'en' Physical Memory: 16231 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mcsep/Documents/Unity Projects/SilentHavenInn
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62961
+Successfully changed project path to: C:/Users/mcsep/Documents/Unity Projects/SilentHavenInn
+C:/Users/mcsep/Documents/Unity Projects/SilentHavenInn
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 167.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mcsep/Documents/Unity Projects/SilentHavenInn/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6172
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003861 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 110.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.859 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002337 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 68.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.957 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.7 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2240.
+Total: 2.839500 ms (FindLiveObjects: 0.299100 ms CreateObjectMapping: 0.133900 ms MarkObjects: 2.317800 ms  DeleteObjects: 0.087100 ms)
+
+========================================================================
+Received Import Request.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f39329bf48061aa91064166663f5d1f4') in 0.057172 seconds
+  Import took 0.064291 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.0 MB.
+System memory in use after: 49.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2240.
+Total: 4.303400 ms (FindLiveObjects: 0.280300 ms CreateObjectMapping: 0.107600 ms MarkObjects: 3.881700 ms  DeleteObjects: 0.032600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000941 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.794 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2243.
+Total: 2.399900 ms (FindLiveObjects: 0.378500 ms CreateObjectMapping: 0.163900 ms MarkObjects: 1.834500 ms  DeleteObjects: 0.021600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 828.321152 seconds.
+  path: Assets/Prefabs/arab_man_001.prefab
+  artifactKey: Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/arab_man_001.prefab using Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce221026bcdace3f40eb2f4a522958ce') in 1.902153 seconds
+  Import took 2.081334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016560 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_31.asset
+  artifactKey: Guid(266b0daec57217c41a5450fddac67a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_31.asset using Guid(266b0daec57217c41a5450fddac67a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cc5cd2964546a7bbfb8e7852d287bf') in 0.576002 seconds
+  Import took 0.589236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_40.asset
+  artifactKey: Guid(eebf222de09cabc4fbeeb1a8cbe8990a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_40.asset using Guid(eebf222de09cabc4fbeeb1a8cbe8990a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51713d5ba832eb044fc922aea1e08867') in 0.038264 seconds
+  Import took 0.043356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_76.asset
+  artifactKey: Guid(bef3b8f303292b542b180b05c1562f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_76.asset using Guid(bef3b8f303292b542b180b05c1562f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7259b7b91b379b3c8b6c85eebd4f9d2d') in 0.010871 seconds
+  Import took 0.022972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_1.asset
+  artifactKey: Guid(ac21bba6052393e4f89b900e42e266e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_1.asset using Guid(ac21bba6052393e4f89b900e42e266e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e57ff5b8a01278929c615a19a60d7dc') in 0.080697 seconds
+  Import took 0.094677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005689 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_49.asset
+  artifactKey: Guid(3c368471ab24e0e48a8dd4df7528ab3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_49.asset using Guid(3c368471ab24e0e48a8dd4df7528ab3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c6ecae3a98b3c8237ee8b1354d1cf1f') in 0.032715 seconds
+  Import took 0.091773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005292 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_88.asset
+  artifactKey: Guid(c6a358abbe3344d4fbcf148c5dbd0e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_88.asset using Guid(c6a358abbe3344d4fbcf148c5dbd0e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8001438956ffc0d318fcd082f88c79a5') in 0.041000 seconds
+  Import took 0.056526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001451 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_0.asset
+  artifactKey: Guid(ac84fc59729e66a4cbd8dfc5e39897c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_0.asset using Guid(ac84fc59729e66a4cbd8dfc5e39897c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15251fd0536bf86dda66e94bb027fafa') in 0.107569 seconds
+  Import took 0.114814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Tiles/Tavern_Assets_10.asset
+  artifactKey: Guid(6932de8b2dac0874e8ed11858cdaf60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_10.asset using Guid(6932de8b2dac0874e8ed11858cdaf60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0432112199535a6422419aeced2a4a9') in 0.025055 seconds
+  Import took 0.064916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_96.asset
+  artifactKey: Guid(4744fb773200ed64981efb62a4eb2ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_96.asset using Guid(4744fb773200ed64981efb62a4eb2ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc24a8d820ec957e5bed20ee0eaa23a2') in 0.007180 seconds
+  Import took 0.087019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011974 seconds.
+  path: Assets/Tiles/Tavern_Assets_9.asset
+  artifactKey: Guid(a30b1e386591ed3468867f9a580387bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_9.asset using Guid(a30b1e386591ed3468867f9a580387bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd5ddbad91550ad2ed4c3d86c17e5e7b') in 0.040801 seconds
+  Import took 0.061514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_24.asset
+  artifactKey: Guid(fce0fa2e81050014990c55628ab95d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_24.asset using Guid(fce0fa2e81050014990c55628ab95d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27a34a26bafde4de490862143e3f99e') in 0.025831 seconds
+  Import took 0.043900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_75.asset
+  artifactKey: Guid(2a3202ee3e6a0324ea4af7bbd6a65059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_75.asset using Guid(2a3202ee3e6a0324ea4af7bbd6a65059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b240999fa391bfb238364bb2c3eb37') in 0.050827 seconds
+  Import took 0.065921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_36.asset
+  artifactKey: Guid(45966a6bf49614b48b797938b49f9731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_36.asset using Guid(45966a6bf49614b48b797938b49f9731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a61f780c378fd4ebaf9744c0d6902a') in 0.069392 seconds
+  Import took 0.078178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001249 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_35.asset
+  artifactKey: Guid(8b2a3f88a4bc2274eb03f93fbfaaca42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_35.asset using Guid(8b2a3f88a4bc2274eb03f93fbfaaca42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab81da9f72ee3ebef16904289177b2f') in 0.096093 seconds
+  Import took 0.163225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026365 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_83.asset
+  artifactKey: Guid(5bc54188ecc416949bdd621a0902a1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_83.asset using Guid(5bc54188ecc416949bdd621a0902a1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2caf2feb4d054b21641e3426a8e7bc') in 0.063464 seconds
+  Import took 0.086959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001640 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_42.asset
+  artifactKey: Guid(7940d22930c4fa74fa8fb970e62f1664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_42.asset using Guid(7940d22930c4fa74fa8fb970e62f1664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c9d01e7363aede437cc0d58df9aa3c') in 0.054105 seconds
+  Import took 0.063039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_72.asset
+  artifactKey: Guid(5abd30b4be14f6940bbf831d8f8c9753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_72.asset using Guid(5abd30b4be14f6940bbf831d8f8c9753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60d68fbd13c9abc82041c9920d77ef2') in 0.027214 seconds
+  Import took 0.034242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000868 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_94.asset
+  artifactKey: Guid(4544ed9d61e2e294493b5a08d09d4187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_94.asset using Guid(4544ed9d61e2e294493b5a08d09d4187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b263255f4e864f36aac71bba97cc2e') in 0.017844 seconds
+  Import took 0.028044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019025 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_67.asset
+  artifactKey: Guid(21cbf5b98bff0a44a80930cd1d24a0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_67.asset using Guid(21cbf5b98bff0a44a80930cd1d24a0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c65469cd59b273134de7daf885e6c947') in 0.015288 seconds
+  Import took 0.035308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005449 seconds.
+  path: Assets/Tiles/Tavern_Assets_16.asset
+  artifactKey: Guid(afc5c3121d3b6a848932f541ccbdfd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_16.asset using Guid(afc5c3121d3b6a848932f541ccbdfd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1dc8679ff119e13a70e3af24f8d407f') in 0.042446 seconds
+  Import took 0.061377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006043 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_82.asset
+  artifactKey: Guid(d516150877ccc40459223e79cca45faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_82.asset using Guid(d516150877ccc40459223e79cca45faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76db005821b54244ce472976a839a23') in 0.098099 seconds
+  Import took 0.114772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_45.asset
+  artifactKey: Guid(3c6ccbf7ec7149446b599236d37d59fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_45.asset using Guid(3c6ccbf7ec7149446b599236d37d59fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '852759bd2d221430cd8c47e8cc79bc88') in 0.061550 seconds
+  Import took 0.070666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_97.asset
+  artifactKey: Guid(3fca4035538af414e9f0a66a0c18a50f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_97.asset using Guid(3fca4035538af414e9f0a66a0c18a50f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38788f0efc551a977fb53db099cf5cea') in 0.064429 seconds
+  Import took 0.090592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000912 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_59.asset
+  artifactKey: Guid(941c32fc2a69c55468d36e8ad6532ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_59.asset using Guid(941c32fc2a69c55468d36e8ad6532ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83c756f1ce5f14692e1e7c23073fb3b6') in 0.045253 seconds
+  Import took 0.064906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Tiles/Tavern_Assets_14.asset
+  artifactKey: Guid(d208f622fc889d348b4e6399eb24873d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_14.asset using Guid(d208f622fc889d348b4e6399eb24873d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb3c9aac3e8bbb2a766f611c9b25ef8') in 0.026850 seconds
+  Import took 0.036709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000967 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_17.asset
+  artifactKey: Guid(b23adc93a6f255c48bf42766cdffcd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_17.asset using Guid(b23adc93a6f255c48bf42766cdffcd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd065f7da9ccaced34f47f3b122f2301') in 0.032208 seconds
+  Import took 0.050819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_55.asset
+  artifactKey: Guid(facf7e4f75c5bdc4ab2242d621a7233c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_55.asset using Guid(facf7e4f75c5bdc4ab2242d621a7233c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c27acc20bffe78ee47a565d79640443') in 0.064738 seconds
+  Import took 0.083041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_68.asset
+  artifactKey: Guid(bac2b4b1fe1f89d448930e10f5fc2394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_68.asset using Guid(bac2b4b1fe1f89d448930e10f5fc2394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92cf598034f87c0cf7a95fcee3e3d614') in 0.025929 seconds
+  Import took 0.048436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_46.asset
+  artifactKey: Guid(1130c34206829164980f5cb7bf6d4ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_46.asset using Guid(1130c34206829164980f5cb7bf6d4ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a93fad6e547bfae4d9d151b050477e') in 0.007508 seconds
+  Import took 0.021277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Tiles/Tavern_Assets.png
+  artifactKey: Guid(f0fcb32f886807042b233f48369bf069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets.png using Guid(f0fcb32f886807042b233f48369bf069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71eed1c66e3213ace8aa93e58f4b84ba') in 0.280888 seconds
+  Import took 0.291456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002467 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_70.asset
+  artifactKey: Guid(60938ce6e29356a48aca3173f68f9351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_70.asset using Guid(60938ce6e29356a48aca3173f68f9351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66a86c28b435fc006c4e4899a5e378a') in 0.051446 seconds
+  Import took 0.073702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_77.asset
+  artifactKey: Guid(fbaea166e9c934c46b016669b43de9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_77.asset using Guid(fbaea166e9c934c46b016669b43de9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dde6db712fce63cfa6ed82001343786') in 0.024952 seconds
+  Import took 0.033005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_9.asset
+  artifactKey: Guid(a5929e48c830c234aa5231f11dbd5eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_9.asset using Guid(a5929e48c830c234aa5231f11dbd5eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84fe0051b370477d1cb9a40789298e8c') in 0.032726 seconds
+  Import took 0.038390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003050 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_7.asset
+  artifactKey: Guid(c6f8d2169edc32b4eb4db80c80007245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_7.asset using Guid(c6f8d2169edc32b4eb4db80c80007245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '382617c40bba8c4521f614e56afa698e') in 0.093229 seconds
+  Import took 0.107158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_91.asset
+  artifactKey: Guid(887696cda2c36fc4394e24b678dcce54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_91.asset using Guid(887696cda2c36fc4394e24b678dcce54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3563412f9e2fbdb3d4a1cfe8ae4d5d3') in 0.022004 seconds
+  Import took 0.029929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022217 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_69.asset
+  artifactKey: Guid(f337678b43e7309418d1aaa06afb29c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_69.asset using Guid(f337678b43e7309418d1aaa06afb29c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f72581027dd33548091defe8738142') in 0.031430 seconds
+  Import took 0.048228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001856 seconds.
+  path: Assets/Tiles/Background.prefab
+  artifactKey: Guid(ed14262003acfee4ca48d5cb2c17caf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Background.prefab using Guid(ed14262003acfee4ca48d5cb2c17caf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb42d384f4deedd746be1b27a6df306d') in 0.010633 seconds
+  Import took 0.018360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000661 seconds.
+  path: Assets/Tiles/Tavern_Assets_11.asset
+  artifactKey: Guid(48f53c090cfa92e41862cef4eb0af743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_11.asset using Guid(48f53c090cfa92e41862cef4eb0af743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91cf09ca20ca68917da8b297a8d80a7') in 0.015785 seconds
+  Import took 0.021058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_5.asset
+  artifactKey: Guid(34cdd2fa116039341b9416793752750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_5.asset using Guid(34cdd2fa116039341b9416793752750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9506e482cad94667b812d6e9fd55f6d') in 0.009824 seconds
+  Import took 0.017062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Tiles/Tavern_Assets_0.asset
+  artifactKey: Guid(a8502d1cca0c9f2418bd5c5605ab90ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_0.asset using Guid(a8502d1cca0c9f2418bd5c5605ab90ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2d7513de7a84e74e7722f7f4c5246a') in 0.014849 seconds
+  Import took 0.029194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_10.asset
+  artifactKey: Guid(4128621cbc071c74b95b35b5e24990fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_10.asset using Guid(4128621cbc071c74b95b35b5e24990fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147e882be1f7139a705e2e851d7a4447') in 0.037235 seconds
+  Import took 0.068198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_14.asset
+  artifactKey: Guid(98e0f9878043acc4a8c669a54ae60ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_14.asset using Guid(98e0f9878043acc4a8c669a54ae60ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eedcbc919feff15e8ba02b8d15af9d2e') in 0.007745 seconds
+  Import took 0.020157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Tiles/Tavern_Assets_4.asset
+  artifactKey: Guid(65ddc309dd8d8d043b5d5a421e939395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_4.asset using Guid(65ddc309dd8d8d043b5d5a421e939395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cde1580fcd4eee09e09c4080682687a6') in 0.053263 seconds
+  Import took 0.058435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001216 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_15.asset
+  artifactKey: Guid(48c4675b1dc2cc743b7a798d7de280e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_15.asset using Guid(48c4675b1dc2cc743b7a798d7de280e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587ee5d096180c899b62808b3c98f364') in 0.022823 seconds
+  Import took 0.027506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Tiles/Tavern_Assets_13.asset
+  artifactKey: Guid(cf8f219f350825d4a9730b60f1d51b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_13.asset using Guid(cf8f219f350825d4a9730b60f1d51b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0126992bc86951e3bca8a531afa75915') in 0.027661 seconds
+  Import took 0.032466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_32.asset
+  artifactKey: Guid(85d702cb2bcb1104fbe88acc4c7ef885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_32.asset using Guid(85d702cb2bcb1104fbe88acc4c7ef885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccc4f9827aab5c39e2d962297d82371b') in 0.015563 seconds
+  Import took 0.022938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_86.asset
+  artifactKey: Guid(0d173c97e60c89740bc89ecfbf356b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_86.asset using Guid(0d173c97e60c89740bc89ecfbf356b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f72280a2d1cf9d1cd99fb9d445040e') in 0.029159 seconds
+  Import took 0.034197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Tiles/Tavern_Assets_8.asset
+  artifactKey: Guid(0804218effac4fc4eb315d9a36377ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_8.asset using Guid(0804218effac4fc4eb315d9a36377ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f04e8a2f4cf8f2d660c48ec1f62359') in 0.010596 seconds
+  Import took 0.024414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_16.asset
+  artifactKey: Guid(21b6c85800c5b064f8e03a54d71e5b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_16.asset using Guid(21b6c85800c5b064f8e03a54d71e5b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6147e5315b86a4ff16a67ec2b4d372ca') in 0.007535 seconds
+  Import took 0.028419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_98.asset
+  artifactKey: Guid(072184e6d23997b40be03b088c03b09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_98.asset using Guid(072184e6d23997b40be03b088c03b09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2e311613fb6675c24956f8cfff9759') in 0.031006 seconds
+  Import took 0.037989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000831 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_38.asset
+  artifactKey: Guid(20651939a15c60d41a3ba7715a19b9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_38.asset using Guid(20651939a15c60d41a3ba7715a19b9bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4708e503dbf8b89d1a6489058444b946') in 0.019002 seconds
+  Import took 0.024449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160.png
+  artifactKey: Guid(adf49fc0db01d774e92093303bb95b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160.png using Guid(adf49fc0db01d774e92093303bb95b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af0582f895b184f6ef74d9460cd37490') in 0.250984 seconds
+  Import took 0.264743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_18.asset
+  artifactKey: Guid(065dc89bdfa832948b5359f41f36c164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_18.asset using Guid(065dc89bdfa832948b5359f41f36c164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1febd048de7a85a753e652cc50e4226e') in 0.008433 seconds
+  Import took 0.012833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_27.asset
+  artifactKey: Guid(223cb80d9d22c594eaafeb34d1638942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_27.asset using Guid(223cb80d9d22c594eaafeb34d1638942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ed03186f057f62921fb8ba7bc0bbec') in 0.009892 seconds
+  Import took 0.015244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000633 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_58.asset
+  artifactKey: Guid(6874be66f8999dc409af839c1c236221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_58.asset using Guid(6874be66f8999dc409af839c1c236221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34535a4e3e9a1c7d7d1ad3ce4eb117a') in 0.033435 seconds
+  Import took 0.037982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_47.asset
+  artifactKey: Guid(75e4eaf605a27414fbce34a78af29fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_47.asset using Guid(75e4eaf605a27414fbce34a78af29fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41d3bdb95e0de4c4495286441a05c1e5') in 0.023997 seconds
+  Import took 0.029921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_87.asset
+  artifactKey: Guid(5008c3f63639e2547af343bcd346b3b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_87.asset using Guid(5008c3f63639e2547af343bcd346b3b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f214da46a06c49fb34f3e9840d320a') in 0.011728 seconds
+  Import took 0.018403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Tiles/Decorations.prefab
+  artifactKey: Guid(89b9c5f2dab6727459690fac5c2db91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Decorations.prefab using Guid(89b9c5f2dab6727459690fac5c2db91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df8d0fc7c09a21cb980e2e5013f44a2') in 0.015660 seconds
+  Import took 0.020799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001263 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_39.asset
+  artifactKey: Guid(6709d1922e7085c4e9f47325947f70bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_39.asset using Guid(6709d1922e7085c4e9f47325947f70bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e47467e08b9b20e3c7b58e2758d7003') in 0.013901 seconds
+  Import took 0.021033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_48.asset
+  artifactKey: Guid(136e24a279388294aacb5b5c7d87ed33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_48.asset using Guid(136e24a279388294aacb5b5c7d87ed33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a30cd94d78c68e24975db9c5bcf9b7') in 0.008127 seconds
+  Import took 0.014826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_99.asset
+  artifactKey: Guid(ff7838f2a886ced4d85d7071675bc5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_99.asset using Guid(ff7838f2a886ced4d85d7071675bc5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e9a13f7291e54006e7268400b7eb71') in 0.023952 seconds
+  Import took 0.034712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Tiles/Tavern_Assets_20.asset
+  artifactKey: Guid(89447dd4a2dc6b24ea658770fb98ac22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_20.asset using Guid(89447dd4a2dc6b24ea658770fb98ac22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30eaf6d4ca45e4ea5b78576d809b2b9') in 0.009566 seconds
+  Import took 0.014653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_44.asset
+  artifactKey: Guid(cac85ecef6870c646a478109c70dcaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_44.asset using Guid(cac85ecef6870c646a478109c70dcaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52fc46b774a16f0fb7021b23769ebd4d') in 0.008041 seconds
+  Import took 0.015285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_71.asset
+  artifactKey: Guid(ef2adb018e6434f4e97b53952f570e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_71.asset using Guid(ef2adb018e6434f4e97b53952f570e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfe9e6d12f12463800fcac7d69388f2') in 0.024770 seconds
+  Import took 0.031197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_63.asset
+  artifactKey: Guid(aefa11b6dae6cbf488f10c7ad456d503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_63.asset using Guid(aefa11b6dae6cbf488f10c7ad456d503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b01c1b4f3e3b80fef357f221cdaa08') in 0.010930 seconds
+  Import took 0.021550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_22.asset
+  artifactKey: Guid(02bc60edf0cc90f4d84d8164d0a77eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_22.asset using Guid(02bc60edf0cc90f4d84d8164d0a77eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b113e3f57a8542f0eda72cfb682d4968') in 0.008982 seconds
+  Import took 0.029516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_81.asset
+  artifactKey: Guid(bd6dd3af2b1403f4ea173d3df207f1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_81.asset using Guid(bd6dd3af2b1403f4ea173d3df207f1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcd3db4024d1806c297f4ad6148a00a7') in 0.007481 seconds
+  Import took 0.015387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_90.asset
+  artifactKey: Guid(fe62c7547580d9248b17784611b58d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_90.asset using Guid(fe62c7547580d9248b17784611b58d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f452634be6610398881a0dca4f784407') in 0.009652 seconds
+  Import took 0.020993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Tiles/Tavern_Assets_19.asset
+  artifactKey: Guid(5968c22a56237474ea10dd2dbe20995a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_19.asset using Guid(5968c22a56237474ea10dd2dbe20995a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66f172756ba52a3d652b5927ac224c7') in 0.033718 seconds
+  Import took 0.039564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_41.asset
+  artifactKey: Guid(793f78de061f7f54da00ab50f17ee5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_41.asset using Guid(793f78de061f7f54da00ab50f17ee5fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff898bf9d7626653e7cafd0478dacc87') in 0.012174 seconds
+  Import took 0.019964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000888 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_56.asset
+  artifactKey: Guid(b9c46b0f7ce150d468791aff13bdbe3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_56.asset using Guid(b9c46b0f7ce150d468791aff13bdbe3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2e3e2f4dedf7b89f2657f2c07d89cc') in 0.014304 seconds
+  Import took 0.025032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000724 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_21.asset
+  artifactKey: Guid(9c131cf73f58b034aa86588cfdafcf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_21.asset using Guid(9c131cf73f58b034aa86588cfdafcf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7553a0fac5a712796d9b36944037828') in 0.012220 seconds
+  Import took 0.026449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_93.asset
+  artifactKey: Guid(ba99c06f8810b874e8a173f35ed91732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_93.asset using Guid(ba99c06f8810b874e8a173f35ed91732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '638f6edf212e5c0edf3b409b99589b71') in 0.018141 seconds
+  Import took 0.031112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000745 seconds.
+  path: Assets/Tiles/Tavern_Assets_2.asset
+  artifactKey: Guid(dc0ccf20d90088248be5a16f4d33f5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_2.asset using Guid(dc0ccf20d90088248be5a16f4d33f5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993204089c8d9475c86e5cfe6d2c8268') in 0.018717 seconds
+  Import took 0.026910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_50.asset
+  artifactKey: Guid(7a5dd731720333c48a8ba45f8a170fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_50.asset using Guid(7a5dd731720333c48a8ba45f8a170fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216e8e959ca9ff0ef9c028077ad96501') in 0.013486 seconds
+  Import took 0.019904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_26.asset
+  artifactKey: Guid(75e3fe4e9c93ba040a6185e65105652e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_26.asset using Guid(75e3fe4e9c93ba040a6185e65105652e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1220a0bd5001d7e5a0342e9ef4cf00eb') in 0.058021 seconds
+  Import took 0.068511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000609 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_52.asset
+  artifactKey: Guid(ac061d9dac4df014395ed08d25537e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_52.asset using Guid(ac061d9dac4df014395ed08d25537e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b244b4e3d3185fbc1ac32f8950d25554') in 0.016686 seconds
+  Import took 0.043142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_73.asset
+  artifactKey: Guid(8464a1b8f01098a4290c46a8f814da67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_73.asset using Guid(8464a1b8f01098a4290c46a8f814da67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66fc2c937b535a0607556835b36915a') in 0.012767 seconds
+  Import took 0.018371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_65.asset
+  artifactKey: Guid(ea48748fe36415b4aab079fae39cf682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_65.asset using Guid(ea48748fe36415b4aab079fae39cf682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e6e7934d33803c2201d61f6429c374') in 0.009354 seconds
+  Import took 0.018139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_53.asset
+  artifactKey: Guid(39614afab287c2e45bfa9c59d39b25de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_53.asset using Guid(39614afab287c2e45bfa9c59d39b25de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f43e481c4e5507559ad48d3286a7974') in 0.035131 seconds
+  Import took 0.040304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Prefabs/Tavern_Assets_0.prefab
+  artifactKey: Guid(0a4c8590b3f3658448ee6400b3b47a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Tavern_Assets_0.prefab using Guid(0a4c8590b3f3658448ee6400b3b47a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2aab331202c5fadc97038406a390c5') in 0.015640 seconds
+  Import took 0.024424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017217 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_11.asset
+  artifactKey: Guid(4b4a482660dc90a409b2fc1ce340b764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_11.asset using Guid(4b4a482660dc90a409b2fc1ce340b764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2f3ee116e58fefde69d77021c699a6') in 0.015134 seconds
+  Import took 0.021272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000877 seconds.
+  path: Assets/Tiles/Tavern_Assets_12.asset
+  artifactKey: Guid(83d6ea778496dfd41a8974e9b1b807a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_12.asset using Guid(83d6ea778496dfd41a8974e9b1b807a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3037930a43bb33b88a26f15a79abb01e') in 0.015825 seconds
+  Import took 0.048648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_51.asset
+  artifactKey: Guid(996ba90c6a4dc644eaa1346d9c011206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_51.asset using Guid(996ba90c6a4dc644eaa1346d9c011206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471b7af1f87ac059e763eefd2625159c') in 0.045622 seconds
+  Import took 0.051013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_84.asset
+  artifactKey: Guid(6c6078c5b8485354e85645aa6e87a70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_84.asset using Guid(6c6078c5b8485354e85645aa6e87a70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef05fb8c463387f7f8fe3a513b17d64') in 0.010048 seconds
+  Import took 0.015400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_3.asset
+  artifactKey: Guid(8d4e80dca33787945b07f54e19d654a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_3.asset using Guid(8d4e80dca33787945b07f54e19d654a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0991fe673716cdf7f044b17d9f62c128') in 0.011421 seconds
+  Import took 0.017775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Tiles/Tavern_Assets_7.asset
+  artifactKey: Guid(339a9fe47b5167d428efe0890d17278c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_7.asset using Guid(339a9fe47b5167d428efe0890d17278c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68f16ebaeb6fbc21f7cb9da5670aded') in 0.019038 seconds
+  Import took 0.032340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_29.asset
+  artifactKey: Guid(f412f1c53d61d9147970ee98d873d3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_29.asset using Guid(f412f1c53d61d9147970ee98d873d3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0c711aedeacfd0cd6ec40e7ad370a5') in 0.007469 seconds
+  Import took 0.015634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_20.asset
+  artifactKey: Guid(cf509bb81a28811468b94d0638d23b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_20.asset using Guid(cf509bb81a28811468b94d0638d23b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c82f401ec8a55bd51406f2fdb32e73') in 0.036887 seconds
+  Import took 0.071726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_60.asset
+  artifactKey: Guid(693ada5aa5fdbc14aa303cb406fa8e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_60.asset using Guid(693ada5aa5fdbc14aa303cb406fa8e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a70767678c82502fb91531d31be1324') in 0.022992 seconds
+  Import took 0.028394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_13.asset
+  artifactKey: Guid(d995d192955354b48976d9f4147c727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_13.asset using Guid(d995d192955354b48976d9f4147c727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9931a857f7f3a001e7687fdf496b548c') in 0.015107 seconds
+  Import took 0.060892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003231 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_74.asset
+  artifactKey: Guid(754bcf4f8853c644ba995987fe1614e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_74.asset using Guid(754bcf4f8853c644ba995987fe1614e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0374532e5943bfe122f4cd6fc174d1') in 0.015660 seconds
+  Import took 0.033482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_23.asset
+  artifactKey: Guid(f2d0205e6446a124d8171135e79a9002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_23.asset using Guid(f2d0205e6446a124d8171135e79a9002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc393642dfc0ad20af7ee01e4de9602') in 0.019108 seconds
+  Import took 0.026573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_64.asset
+  artifactKey: Guid(fa5afc07660d05141a65c61615cda889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_64.asset using Guid(fa5afc07660d05141a65c61615cda889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74e8793dfa21c850ff68d7c512174f0') in 0.013245 seconds
+  Import took 0.022626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_79.asset
+  artifactKey: Guid(829bb9bb8c95a954d98c941bfef1a1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_79.asset using Guid(829bb9bb8c95a954d98c941bfef1a1fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0c4db2a3d5aa77ea7adf6ecdd074b2') in 0.047959 seconds
+  Import took 0.065272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011078 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_43.asset
+  artifactKey: Guid(8b79b00a625cd544b9bfe2b2d5dae1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_43.asset using Guid(8b79b00a625cd544b9bfe2b2d5dae1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53df5bb73fa1573379f4e60bd1e2c26') in 0.018412 seconds
+  Import took 0.044117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001295 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_92.asset
+  artifactKey: Guid(d2e7ab4c67d908a4bb953a3c9ea4a81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_92.asset using Guid(d2e7ab4c67d908a4bb953a3c9ea4a81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0375e7ac3752c27e06125ede48e5dca') in 0.050481 seconds
+  Import took 0.081771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_78.asset
+  artifactKey: Guid(de2602a46dd5e17488d15cc4445d7517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_78.asset using Guid(de2602a46dd5e17488d15cc4445d7517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed5d0843a21055bc12d786ea3ef3a8d') in 0.012802 seconds
+  Import took 0.022888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003397 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_12.asset
+  artifactKey: Guid(ac2205f197964104db39ddd811fb151d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_12.asset using Guid(ac2205f197964104db39ddd811fb151d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65983a731f80e799a6acd6977caff9ae') in 0.022129 seconds
+  Import took 0.036721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000871 seconds.
+  path: Assets/Tiles/Tavern_Assets_3.asset
+  artifactKey: Guid(c64fb9b44a93fae4b82c2b93473ff6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_3.asset using Guid(c64fb9b44a93fae4b82c2b93473ff6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9029454c6b96666ef7e0ffbf278092') in 0.026375 seconds
+  Import took 0.037368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003826 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_89.asset
+  artifactKey: Guid(86264f82aa2460f4ba225cacab149a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_89.asset using Guid(86264f82aa2460f4ba225cacab149a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a1ee3d7103444a23c21ff6c85cad859') in 0.062408 seconds
+  Import took 0.078185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000601 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_95.asset
+  artifactKey: Guid(de3ec874dd374374a8767fa88d0d6fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_95.asset using Guid(de3ec874dd374374a8767fa88d0d6fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb9a1c2dda89354f0f0c8d7bf1e2acd7') in 0.018343 seconds
+  Import took 0.043335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009253 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_28.asset
+  artifactKey: Guid(f87cd12a9d1b82b4fb6bfd310699ba42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_28.asset using Guid(f87cd12a9d1b82b4fb6bfd310699ba42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f02fd51049807ff69cf14e2ab244d06') in 0.021093 seconds
+  Import took 0.033270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_80.asset
+  artifactKey: Guid(ba52cdcb9ddbc6d48898af5f7d30597b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_80.asset using Guid(ba52cdcb9ddbc6d48898af5f7d30597b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e16d743c8e8fd4d9cbdcd5332c3dcd7') in 0.027520 seconds
+  Import took 0.037483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000955 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_57.asset
+  artifactKey: Guid(e68b795f810ba6441bc955f65d309793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_57.asset using Guid(e68b795f810ba6441bc955f65d309793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7ec2773f141c55accd39ce9a5bc103') in 0.029390 seconds
+  Import took 0.103908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_66.asset
+  artifactKey: Guid(fb242dee468e9cc4c956892a26e033fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_66.asset using Guid(fb242dee468e9cc4c956892a26e033fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d244db146811fe17647309e81dff3c') in 0.040564 seconds
+  Import took 0.055738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_2.asset
+  artifactKey: Guid(69360074f28d9b043a9dc4d3ab801234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_2.asset using Guid(69360074f28d9b043a9dc4d3ab801234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac53491498073cbcc34d4dd5bc7b0660') in 0.034217 seconds
+  Import took 0.055737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_8.asset
+  artifactKey: Guid(2e3cefbdefbba784e81ac6ea8eadfd6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_8.asset using Guid(2e3cefbdefbba784e81ac6ea8eadfd6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f9584cba270ca15b4e8fc9114e3050') in 0.015377 seconds
+  Import took 0.021102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_33.asset
+  artifactKey: Guid(74648a6fdbcb8c3499cd300133bfd25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_33.asset using Guid(74648a6fdbcb8c3499cd300133bfd25b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '125d2fb2979f3bad8981d478cdedbbd6') in 0.048870 seconds
+  Import took 0.072762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_30.asset
+  artifactKey: Guid(8c187339278eb534cb2799e2c3739837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_30.asset using Guid(8c187339278eb534cb2799e2c3739837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce38b351d89c987c096946db1ceb3ea') in 0.035980 seconds
+  Import took 0.046678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_54.asset
+  artifactKey: Guid(5733fb47c076d634c9e84ade0058a14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_54.asset using Guid(5733fb47c076d634c9e84ade0058a14c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91223c611fc22b64bbaaf71e932a119') in 0.117583 seconds
+  Import took 0.128174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035589 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_4.asset
+  artifactKey: Guid(41a86cf933dd00f4aaa56537c4c5aa66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_4.asset using Guid(41a86cf933dd00f4aaa56537c4c5aa66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c037b7fab56959c29a72ba430443d09b') in 0.022984 seconds
+  Import took 0.031474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Tiles/Tavern_Assets_17.asset
+  artifactKey: Guid(d072a6131bbe1724494222ed69ce5c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_17.asset using Guid(d072a6131bbe1724494222ed69ce5c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855b53a8a0797387475dff8fcb35ae96') in 0.032385 seconds
+  Import took 0.042155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001573 seconds.
+  path: Assets/Tiles/Tavern_Assets_1.asset
+  artifactKey: Guid(f5d7cb57aadc23c47a7ed4c3f5b1a2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_1.asset using Guid(f5d7cb57aadc23c47a7ed4c3f5b1a2a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ade550572dfc620580326f1e485f03c') in 0.047780 seconds
+  Import took 0.096340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_34.asset
+  artifactKey: Guid(cdfeb0d35d9292540920b5f95bc6d179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_34.asset using Guid(cdfeb0d35d9292540920b5f95bc6d179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0f43db4d395a14b262ef3f4d8dcb1f') in 0.076732 seconds
+  Import took 0.083909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tiles/Tavern_Assets_18.asset
+  artifactKey: Guid(5cdc075ed24fcd948972a41c35512789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_18.asset using Guid(5cdc075ed24fcd948972a41c35512789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23861c41088d449f7e3a8ae575a62461') in 0.022461 seconds
+  Import took 0.135683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018553 seconds.
+  path: Assets/Tiles/Tavern_Assets_6.asset
+  artifactKey: Guid(433ef8f7cc4b8dc46b03af4e039e5301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_6.asset using Guid(433ef8f7cc4b8dc46b03af4e039e5301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd9139b079a348a64c5c9ba9031f3a59') in 0.113299 seconds
+  Import took 0.159733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_37.asset
+  artifactKey: Guid(c9616f7237d021940853b79e0daed551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_37.asset using Guid(c9616f7237d021940853b79e0daed551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e93fce30f544467bcb9fb33382403d3') in 0.024476 seconds
+  Import took 0.104508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Tiles/Tavern_Assets_5.asset
+  artifactKey: Guid(cf86c692e1a73664eb68930ec02db42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_5.asset using Guid(cf86c692e1a73664eb68930ec02db42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a59904680f76b8d80a372875ec80f6') in 0.021872 seconds
+  Import took 0.101509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_6.asset
+  artifactKey: Guid(331ae3608b7a5534e9534a3dfa94f45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_6.asset using Guid(331ae3608b7a5534e9534a3dfa94f45f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f30e718e361cc1d43421a08aa7400bf1') in 0.023610 seconds
+  Import took 0.105103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_19.asset
+  artifactKey: Guid(dcc12d102af2d3b428724543111f6c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_19.asset using Guid(dcc12d102af2d3b428724543111f6c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b158cd35d11d70ad33c25e09408019e') in 0.080357 seconds
+  Import took 0.087473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_61.asset
+  artifactKey: Guid(cd9f74851d28e2246898059305ca58e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_61.asset using Guid(cd9f74851d28e2246898059305ca58e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b906d5bca74fd8a2207b760b2aeffb') in 0.014128 seconds
+  Import took 0.075301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Tiles/Tavern_Assets_15.asset
+  artifactKey: Guid(59f25cab0de4f004aad573307f57aad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Tavern_Assets_15.asset using Guid(59f25cab0de4f004aad573307f57aad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c8e3571c9020eb6e2f1bc62de9c45c') in 0.095169 seconds
+  Import took 0.101042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_62.asset
+  artifactKey: Guid(a6f94ed01910f40488238a044fa0ebcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_62.asset using Guid(a6f94ed01910f40488238a044fa0ebcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d8f6a0776b4c3837c2d18eba126c351') in 0.070724 seconds
+  Import took 0.082070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_25.asset
+  artifactKey: Guid(830fc8caa4cfed646bee6409462cd824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_25.asset using Guid(830fc8caa4cfed646bee6409462cd824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b844a483e20c663751aaf8efd11fb2e') in 0.015263 seconds
+  Import took 0.084736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Tiles/stone_floor_001_160x160_85.asset
+  artifactKey: Guid(f43b7be89c5480b4aa000da589a529be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/stone_floor_001_160x160_85.asset using Guid(f43b7be89c5480b4aa000da589a529be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ba2ff3477b9cd0ab32dab147f5a76b') in 0.016329 seconds
+  Import took 0.078420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.799715 seconds.
+  path: Assets/Prefabs/arab_man_001.prefab
+  artifactKey: Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/arab_man_001.prefab using Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce221026bcdace3f40eb2f4a522958ce') in 0.446953 seconds
+  Import took 0.468015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.827742 seconds.
+  path: Assets/Prefabs/arab_man_001.prefab
+  artifactKey: Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/arab_man_001.prefab using Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066bcba1d111323bc0e978c73bb7de88') in 0.011374 seconds
+  Import took 0.016547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Prefabs/arab_man_001.prefab
+  artifactKey: Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/arab_man_001.prefab using Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066bcba1d111323bc0e978c73bb7de88') in 0.023096 seconds
+  Import took 0.027343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.622784 seconds.
+  path: Assets/Prefabs/arab_man_001.prefab
+  artifactKey: Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/arab_man_001.prefab using Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8e3975c1b4be0f9f8f154ec15e5f1d') in 0.052336 seconds
+  Import took 0.135489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.756514 seconds.
+  path: Assets/Prefabs/arab_man_001.prefab
+  artifactKey: Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/arab_man_001.prefab using Guid(507361692c449a04da3eee9a30e06d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce221026bcdace3f40eb2f4a522958ce') in 4.752660 seconds
+  Import took 4.758480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 441.014025 seconds.
+  path: Assets/arab_man_bottom.png
+  artifactKey: Guid(d3addbe0ac32a7943800e1e7ebeb9790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arab_man_bottom.png using Guid(d3addbe0ac32a7943800e1e7ebeb9790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe4ff4fd2485b079321b623e7c0ebae') in 0.008746 seconds
+  Import took 0.012688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/arab_man_top.png
+  artifactKey: Guid(97302f70e4102364d85859a414d43cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arab_man_top.png using Guid(97302f70e4102364d85859a414d43cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a5596d3f6e819fa6e177587ea7000d') in 0.007747 seconds
+  Import took 0.011000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.515439 seconds.
+  path: Assets/arab_man_bottom.png
+  artifactKey: Guid(d3addbe0ac32a7943800e1e7ebeb9790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arab_man_bottom.png using Guid(d3addbe0ac32a7943800e1e7ebeb9790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '592410c6d29e05668397a6d432e8c0ac') in 0.007130 seconds
+  Import took 0.010668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.177506 seconds.
+  path: Assets/arab_man_top.png
+  artifactKey: Guid(97302f70e4102364d85859a414d43cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arab_man_top.png using Guid(97302f70e4102364d85859a414d43cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31e29ef8a5826b87255c9a203da6ac7') in 0.007255 seconds
+  Import took 0.011585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.601394 seconds.
+  path: Assets/arab_man_bottom.png
+  artifactKey: Guid(d3addbe0ac32a7943800e1e7ebeb9790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arab_man_bottom.png using Guid(d3addbe0ac32a7943800e1e7ebeb9790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a49e89536fe74a239d22a2c65acf20c') in 0.006344 seconds
+  Import took 0.009196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.275833 seconds.
+  path: Assets/arab_man_bottom.png
+  artifactKey: Guid(d3addbe0ac32a7943800e1e7ebeb9790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arab_man_bottom.png using Guid(d3addbe0ac32a7943800e1e7ebeb9790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a3ef81934360c0f984b49db6a82b57') in 0.008828 seconds
+  Import took 0.012655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.978239 seconds.
+  path: Assets/arab_man_top.png
+  artifactKey: Guid(97302f70e4102364d85859a414d43cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arab_man_top.png using Guid(97302f70e4102364d85859a414d43cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd4db60054ab3038c07a6ed43869a2d') in 0.007846 seconds
+  Import took 0.011783 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002385 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.008 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 2.212200 ms (FindLiveObjects: 0.243400 ms CreateObjectMapping: 0.067500 ms MarkObjects: 1.879900 ms  DeleteObjects: 0.020300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000953 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.807 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 2.378600 ms (FindLiveObjects: 0.188200 ms CreateObjectMapping: 0.074800 ms MarkObjects: 2.098400 ms  DeleteObjects: 0.016100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001006 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.803 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2265.
+Total: 2.135100 ms (FindLiveObjects: 0.199400 ms CreateObjectMapping: 0.078300 ms MarkObjects: 1.838400 ms  DeleteObjects: 0.018100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.795 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 1.969100 ms (FindLiveObjects: 0.187000 ms CreateObjectMapping: 0.061800 ms MarkObjects: 1.705100 ms  DeleteObjects: 0.014500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000891 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.763 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2271.
+Total: 1.647500 ms (FindLiveObjects: 0.164100 ms CreateObjectMapping: 0.054100 ms MarkObjects: 1.413800 ms  DeleteObjects: 0.014400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001016 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2274.
+Total: 1.911800 ms (FindLiveObjects: 0.179700 ms CreateObjectMapping: 0.061600 ms MarkObjects: 1.654100 ms  DeleteObjects: 0.015400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000948 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2277.
+Total: 2.630000 ms (FindLiveObjects: 0.476800 ms CreateObjectMapping: 0.211700 ms MarkObjects: 1.921400 ms  DeleteObjects: 0.018200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1783 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2280.
+Total: 1.930500 ms (FindLiveObjects: 0.173900 ms CreateObjectMapping: 0.063800 ms MarkObjects: 1.671900 ms  DeleteObjects: 0.019700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
